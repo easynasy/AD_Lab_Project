@@ -1,3 +1,8 @@
+## Credits and Acknowledgments
+
+This lab was based on concepts and tutorials from [TCM Security](https://www.tcm-sec.com/), specifically their resources on Active Directory and network penetration testing.
+
+
 # AD_Lab_Project
 Active Directory Lab: Installation, attack simulation, and mitigation techniques.
 
